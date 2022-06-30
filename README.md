@@ -7,10 +7,9 @@ recipe from the list by clicking a delete button. You will also be asked
 to add styling as provided in the mockup.
 
 1:1
-https://github.com/nsuami/Recipe-CRUD/blob/main/docs/img/deliciousfoods.png
+
 ![Recipe
-app](https://github.com/nsuami/Recipe-CRUD/blob/main/docs/img/deliciousfoods.png){width="6.267716535433071in"
-height="3.1666666666666665in"}
+app](https://github.com/nsuami/Recipe-CRUD/blob/main/docs/img/deliciousfoods.png)
 
 This project has starter code you can use for the application. You will
 need to add handlers and other logic to make this code work.
