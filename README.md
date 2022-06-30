@@ -42,8 +42,7 @@ name=\"ingredients\"\> and \<textarea name=\"preparation\"\>.
 1:1
 
 ![Create a recipe
-](vertopal_2c3aa3bb7f04466e9cd719feb37cbf94/media/image1.png){width="6.267716535433071in"
-height="0.6944444444444444in"}
+](https://github.com/nsuami/Recipe-CRUD/blob/main/docs/img/create-recipe.png)
 
 To read and display the list of recipes use the table structure that we
 provide in the starter code. Each recipe should display the name,
@@ -53,8 +52,7 @@ below:
 1:1
 
 ![Recipe
-list](vertopal_2c3aa3bb7f04466e9cd719feb37cbf94/media/image2.png){width="6.267716535433071in"
-height="1.9166666666666667in"}
+list](https://github.com/nsuami/Recipe-CRUD/blob/main/docs/img/recipeapplist.png)
 
 Clicking the delete button should remove the entire row/recipe from the
 list. For the tests to pass, make sure that the delete button has delete
